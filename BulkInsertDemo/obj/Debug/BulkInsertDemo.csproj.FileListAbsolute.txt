@@ -1,0 +1,12 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\BulkInsertDemo.exe.config
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\BulkInsertDemo.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\BulkInsertDemo.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\Helpers.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\EntityFramework.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\Helpers.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\EntityFramework.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\obj\Debug\BulkInsertDemo.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\obj\Debug\BulkInsertDemo.exe
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\BulkInsertDemo\BulkInsertDemo\obj\Debug\BulkInsertDemo.pdb
